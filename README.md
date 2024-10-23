@@ -31,76 +31,73 @@ O projeto está organizado da seguinte forma:
 
 ## 🧪 Laboratórios
 
-Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai mostrar como o **GitHub Copilot** pode ser usado para acelerar o desenvolvimento, reduzir erros e aumentar a produtividade. 🚀
+Aqui estão os **Labs** que você irá realizar durante o workshop. Cada lab vai mostrar como o **GitHub Copilot** pode ser usado para acelerar o desenvolvimento, reduzir erros e aumentar a produtividade. 🚀
 
----
 
 ### 1️⃣ **Lab 1: Adicionando Livros à Biblioteca** 📚
 
 - **Objetivo**: Usar o Copilot para adicionar novos livros à lista de forma rápida e eficiente.
 - **O que você vai fazer**: Adicionar novos livros com o auxílio do Copilot e verificar a adição no sistema.
 
-📍 [Ver Lab 1](Labs/LAB1.md)
+📍 [Ver Lab 1](LABS/LAB1.md)
 
----
+
 
 ### 2️⃣ **Lab 2: Atualizando a Lista de Livros** ✏️
 
 - **Objetivo**: Criar um método `PUT` para atualizar as informações de um livro existente.
 - **O que você vai fazer**: Implementar a lógica de atualização e testar com requisições.
 
-📍 [Ver Lab 2](./labs/lab2.md)
+📍 [Ver Lab 2](LABS/LAB2.md)
 
----
 
 ### 3️⃣ **Lab 3: Adicionando Filtros de Pesquisa** 🔍
 
 - **Objetivo**: Criar um método para pesquisar livros por título ou autor.
 - **O que você vai fazer**: Implementar filtros de pesquisa com o Copilot e buscar livros dinamicamente.
 
-📍 [Ver Lab 3](./labs/lab3.md)
+📍 [Ver Lab 3](LABS/LAB3.md)
 
----
 
 ### 4️⃣ **Lab 4: Deletando Livros** 🗑️
 
 - **Objetivo**: Criar um método `DELETE` para remover livros da biblioteca.
 - **O que você vai fazer**: Implementar a funcionalidade de deletar livros e testar a exclusão.
 
-📍 [Ver Lab 4](./labs/lab4.md)
+📍 [Ver Lab 4](LABS/LAB4.md)
 
----
+
 
 ### 5️⃣ **Lab 5: Gerando Unit Tests** 🔧✅
 
 - **Objetivo**: Gerar testes unitários automaticamente para validar o CRUD de livros.
 - **O que você vai fazer**: Criar testes unitários para cada método do controlador com o Copilot.
 
-📍 [Ver Lab 5](./labs/lab5.md)
+📍 [Ver Lab 5](LABS/LAB5.md)
 
----
+
 
 ### 6️⃣ **Lab 6: Lidando com Erros de Validação** ⚠️
 
 - **Objetivo**: Implementar validações para garantir que todos os campos obrigatórios estejam preenchidos.
 - **O que você vai fazer**: Adicionar verificações no método `POST` e garantir que os livros tenham título e autor.
 
-📍 [Ver Lab 6](./labs/lab6.md)
+📍 [Ver Lab 6](LABS/LAB6.md)
 
----
+
 
 ### 7️⃣ **Lab 7: Implementando Paginação** 📑
 
 - **Objetivo**: Adicionar paginação para melhorar a visualização de grandes listas de livros.
 - **O que você vai fazer**: Criar um método `GET` com suporte a paginação usando o Copilot.
 
-📍 [Ver Lab 7](./labs/lab7.md)
+📍 [Ver Lab 7](LABS/LAB7.md)
 
----
 
 ### 8️⃣ **Lab 8: Adicionando Comentários e Melhorando a Documentação** 📝
 
 - **Objetivo**: Usar o Copilot para gerar automaticamente a documentação do código.
 - **O que você vai fazer**: Adicionar comentários e documentação XML em todos os métodos da API.
 
-📍 [Ver Lab 8](./labs/lab8.md)
+📍 [Ver Lab 8](LABS/LAB8.md)
+
