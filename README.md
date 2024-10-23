@@ -40,7 +40,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Usar o Copilot para adicionar novos livros à lista de forma rápida e eficiente.
 - **O que você vai fazer**: Adicionar novos livros com o auxílio do Copilot e verificar a adição no sistema.
 
-📍 [Ver Lab 1](./labs/lab1.md)
+📍 [Ver Lab 1](Labs/LAB1.md)
 
 ---
 
