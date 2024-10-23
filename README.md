@@ -1,6 +1,3 @@
-Aqui está o `README.md` atualizado conforme solicitado:
-
----
 
 # 📚 BookManager API - Workshop Prático com GitHub Copilot 🚀
 
