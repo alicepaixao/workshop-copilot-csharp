@@ -1,7 +1,3 @@
-Aqui estão os 8 laboratórios formatados em Markdown, separados para fácil cópia:
-
----
-
 ### Lab 1: Adicionando Livros à Biblioteca
 
 #### Objetivo:
@@ -31,11 +27,3 @@ new Book
 
 4. **Repita o processo para adicionar mais livros.**
 5. **Verifique se os livros foram adicionados corretamente executando o projeto.**
-
-
----
-
-
----
-
-Cada laboratório foi projetado para ser simples e objetivo, explorando várias funcionalidades do GitHub Copilot.
